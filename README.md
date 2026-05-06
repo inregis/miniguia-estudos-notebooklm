@@ -67,7 +67,7 @@ Gestão de Riscos: Envolve capacitar o indivíduo para lidar com imprevistos e a
 .
 Em resumo, a educação financeira visa transformar a relação do indivíduo com o dinheiro, indo além do simples acúmulo de capital para promover uma sociedade mais consciente, responsável e comprometida com o futuro
 .
----
+
 
 ### Prompt 2
 Explique juros compostos como se estivesse ensinando para alguém sem conhecimento prévio em finanças, com exemplo prático.
@@ -110,7 +110,6 @@ Valor de parcelas de financiamento: Para entender como os juros impactam o que v
 Entender esse mecanismo é parte do processo de educação financeira, que ajuda a desenvolver as habilidades necessárias para fazer escolhas baseadas em informações e melhorar seu bem-estar financeiro
 .
 
----
 
 ### Prompt 3
 Como criar uma reserva de emergência?
