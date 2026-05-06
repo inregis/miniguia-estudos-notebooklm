@@ -72,6 +72,7 @@ Em resumo, a educação financeira visa transformar a relação do indivíduo co
 ### Prompt 2
 Explique juros compostos como se estivesse ensinando para alguém sem conhecimento prévio em finanças, com exemplo prático.
 
+
 Para explicar os juros compostos com base nas fontes, é importante primeiro entender que eles estão diretamente ligados ao conceito de "poupar ativamente", um dos pilares do tripé "PLA-POU-CRÉ" (Planejar, Poupar e usar o Crédito de forma responsável)
 . Embora os textos fornecidos não tragam uma definição matemática detalhada, eles destacam a importância de entender os juros para exercer a cidadania financeira e gerenciar bem seus recursos
 .
@@ -113,6 +114,7 @@ Entender esse mecanismo é parte do processo de educação financeira, que ajuda
 
 ### Prompt 3
 Como criar uma reserva de emergência?
+
 
 Criar uma reserva de emergência é um passo fundamental da educação financeira, integrando o tripé "PLA-POU-CRÉ" (Planejar, Poupar e usar o Crédito de forma responsável)
 . Essa reserva funciona como uma proteção para imprevistos e situações inesperadas que podem comprometer seu orçamento
