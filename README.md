@@ -1,3 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/SEUUSUARIO/educacao-financeira-notebooklm)
+![GitHub last commit](https://img.shields.io/github/last-commit/SEUUSUARIO/educacao-financeira-notebooklm)
+
+
 # Miniguia de Estudos com NotebookLM: Educação Financeira para Iniciantes
 
 ## 📌 Contexto do Projeto
@@ -211,4 +215,8 @@ Ideal: 3 a 6 meses de despesas.
 
 ## 🚀 Conclusão
 
-O uso do NotebookLM demonstrou como a inteligência artificial pode potencializar a aprendizagem ativa, facilitando a organização do conhecimento e estimulando pensamento crítico.
+Este projeto demonstrou como o NotebookLM pode ser utilizado como ferramenta estratégica de aprendizagem ativa.
+
+A experiência evidenciou que a qualidade das respostas geradas por IA depende diretamente da formulação dos prompts e da curadoria das fontes utilizadas.
+
+O processo fortaleceu competências como pensamento crítico, organização do conhecimento e autonomia no estudo.
