@@ -1,5 +1,5 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/SEUUSUARIO/educacao-financeira-notebooklm)
-![GitHub last commit](https://img.shields.io/github/last-commit/SEUUSUARIO/educacao-financeira-notebooklm)
+![GitHub repo size](https://img.shields.io/github/repo-size/inregis/educacao-financeira-notebooklm)
+![GitHub last commit](https://img.shields.io/github/last-commit/inregis/educacao-financeira-notebooklm)
 
 
 # Miniguia de Estudos com NotebookLM: Educação Financeira para Iniciantes
