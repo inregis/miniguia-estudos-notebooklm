@@ -153,6 +153,68 @@ O Banco Central recomenda o uso da Calculadora do Cidadão para simular o rendim
 .
 
 ---
+## ⚠️ Troubleshooting e Aprendizados
+
+Durante a construção deste miniguia, alguns desafios surgiram no processo de interação com o NotebookLM. Esses obstáculos foram importantes para aprimorar a formulação de prompts e a interpretação crítica das respostas geradas.
+
+### 1. Respostas excessivamente extensas
+
+**Problema encontrado:**  
+Ao utilizar perguntas amplas, a IA retornava respostas muito detalhadas e extensas, dificultando a extração dos pontos principais.
+
+**Como foi resolvido:**  
+Passei a solicitar resumos objetivos, limitando as respostas em tópicos ou definindo quantidade máxima de linhas.
+
+**Aprendizado:**  
+Prompts mais específicos geram respostas mais úteis e organizadas.
+
+---
+
+### 2. Respostas genéricas
+
+**Problema encontrado:**  
+Algumas respostas apresentavam conceitos corretos, porém superficiais.
+
+**Como foi resolvido:**  
+Incluí contexto adicional e solicitei exemplos práticos aplicados ao cotidiano financeiro.
+
+**Exemplo de melhoria no prompt:**  
+
+Antes:  
+> Explique juros compostos
+
+Depois:  
+> Explique juros compostos para um iniciante, com exemplo prático usando valores reais
+
+**Aprendizado:**  
+Quanto maior o contexto fornecido, maior a qualidade da resposta.
+
+---
+
+### 3. Informações complementares fora das fontes
+
+**Problema encontrado:**  
+Em alguns momentos, a IA apresentou explicações que extrapolavam parcialmente o conteúdo das fontes carregadas.
+
+**Como foi resolvido:**  
+Passei a solicitar referência explícita às fontes utilizadas.
+
+**Aprendizado:**  
+É essencial validar as respostas geradas e conferir aderência às fontes.
+
+---
+
+### 4. Necessidade de refinamento iterativo
+
+**Problema encontrado:**  
+A primeira versão dos prompts raramente entregava o formato ideal.
+
+**Como foi resolvido:**  
+Realizei ajustes progressivos na formulação das perguntas.
+
+**Aprendizado:**  
+A interação com IA é um processo iterativo de refinamento.
+---
 
 ## 📖 Miniguia de Estudo
 
